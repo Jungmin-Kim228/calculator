@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*
+v1.0
+2022.03.31
+*/
 int add(int, int);
 int sub(int, int);
 int multi(int, int);
