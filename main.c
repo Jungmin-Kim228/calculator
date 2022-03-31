@@ -32,7 +32,7 @@ int main(int args, char* args[])
             break;
     }
     
-    printf("결과는 %d입니다.\n", result);
+    printf("result is %d.\n", result);
 
     return 0;
 }
