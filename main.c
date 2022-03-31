@@ -36,8 +36,8 @@ int main(int args, char* args[])
 
 int add(int number1, int number2)
 {
-    //Todo
-    return 0;
+    result = number1 + number2;
+    return result;
 }
 
 int sub(int number1, int number2)
